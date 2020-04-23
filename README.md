@@ -1,4 +1,4 @@
-![SpaceX Logo](/client/src/logo.png)
+![SpaceX Logo](/client/src/logo.PNG)
 
 # Installation
 Begin by installing [Node.js](https://nodejs.org/en/download/)
