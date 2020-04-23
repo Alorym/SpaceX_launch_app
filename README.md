@@ -18,6 +18,7 @@ After that, change directory into the client folder and install all the
 dependencies listed in package.json to the client
 
 `cd /client`
+ 
 `npm install`
 
 Due to an error in the concurrently script, you must run **two terminals** to 
