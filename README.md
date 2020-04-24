@@ -8,23 +8,22 @@ Once installed, download the project.
 After the project is downloaded, begin opening your terminal and changing your
 directory to the project directory
 
-`cd /SpaceX_launch_app-master`
+> $ cd /SpaceX_launch_app-master
 
 Next, install all the dependencies listed in package.json to the server.
 
-`npm install`
+> $ npm install
 
 After that, change directory into the client folder and install all the 
 dependencies listed in package.json to the client
 
-`cd /client`
- 
-`npm install`
+> $ cd /client
+> $ npm install
 
 Due to an error in the concurrently script, you must run **two terminals** to 
 run this application. One for the server, and one for the client. On one terminal enter: 
 
-`npm start`
+> $ npm start
 
 This will iniate the server on port 5000. To iniate the client, on the other terminal enter:
 
